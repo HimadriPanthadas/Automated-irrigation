@@ -7,8 +7,8 @@ int msensor=32;
 int Led=12;
 
 //Wifi properties
-//const char* WIFI_NAME= "ENTER WIFI NAME";
-//const char* WIFI_PASSWORD = "ENTER WIFI PASSWORD";
+const char* WIFI_NAME= "ENTER WIFI NAME";
+const char* WIFI_PASSWORD = "ENTER WIFI PASSWORD";
 
 
 //making the server object
